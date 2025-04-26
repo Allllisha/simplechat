@@ -18,3 +18,4 @@ frontend/build/
 
 # 環境変数ファイル
 .env
+venv/
